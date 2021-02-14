@@ -2,7 +2,7 @@
 - 👀 I’m interested in learning system and device drivers programming.
 - 🌱 I’m currently learning the linux kernel internals.
 - 💞️ I’m looking to collaborate on linux projects.
-- 📫 Reach me out here: harishec031@gmail.com
+- 📫 Drop me an email here harishec031@gmail.com
 
 <!---
 harish-kumar-97/harish-kumar-97 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
