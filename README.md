@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @harish-kumar-97
+- 👋 Hi, I’m Harish!
 - 👀 I’m interested in learning system and device drivers programming.
 - 🌱 I’m currently learning the linux kernel internals.
 - 💞️ I’m looking to collaborate on linux projects.
