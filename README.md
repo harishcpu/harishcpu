@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Harish!
 - 👀 I’m interested in learning systems and device drivers programming.
 - 🌱 I’m currently learning the linux kernel internals.
-- 💞️ I’m looking to collaborate on linux projects.
+- 💞️ I’m looking forward to collaborate on linux projects.
 - 📫 Wanna talk? Drop me an email to harishec031@gmail.com.
 
 <!---
