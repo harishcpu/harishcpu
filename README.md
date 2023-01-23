@@ -1,5 +1,4 @@
 - 👋 Hi, I’m Harish!
-- 📫 How to reach me? Drop me an email here, harishec031@gmail.com.
 
 <!---
 harish-kumar-97/harish-kumar-97 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
