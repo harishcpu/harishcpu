@@ -1,4 +1,3 @@
-- 👋 Hi, I’m Harish!
 
 <!---
 harish-kumar-97/harish-kumar-97 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
